@@ -1,0 +1,16 @@
+var sunGlassPrice=120;
+var name ='Ariana grande';
+var isSingle=true;
+console.log(typeof isSingle);
+console.log(typeof name);
+console.log(typeof sunGlassPrice);
+var age=[11,21,34,56,67,89,98,65,78];
+var picnic=[4000,5000,200,4000,5670];
+var nayikas=['mahi','opu','joya','purnima'];
+var vowels=['a','e','i','o','u'];
+console.log(vowels);
+console.log(nayikas);
+console.log(picnic);
+console.log(vowels.length);
+console.log(nayikas.length);
+console.log(picnic.length);
