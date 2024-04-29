@@ -1,0 +1,10 @@
+var arr=[10,23,45,65,43,7,6,8,7,76];
+arr.push(56);
+console.log(arr);
+var frnds=['alu','balu','kalu','malu'];
+frnds.push('halu');
+var frnds=['alu','balu','kalu','malu'];
+frnds.pop();
+console.log(frnds);
+frnds.slice(2);
+console.log(frnds);
