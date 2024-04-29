@@ -1,0 +1,12 @@
+ var p='10';
+ var q='20';
+ console.log(p+q); 
+ var gpa ='3.14';
+ var gpa =parseFloat(gpa);
+ console.log(gpa);
+ console.log(typeof gpa);
+ var n=.10;
+ var m=.20;
+ sum=n+m;
+ sum = sum.toFixed(5);
+ console.log(sum);
