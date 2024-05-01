@@ -1,1 +1,1 @@
-destinations.pop();
+return quantitiy;
