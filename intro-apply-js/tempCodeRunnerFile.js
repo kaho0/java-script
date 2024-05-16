@@ -1,3 +1,10 @@
-var arr=[5,7,8,10,45,30];
-// const odd=getoddsum(arr);
-// console.log(odd);
+const jim=84;
+// const dela=75;
+// if(jim>dela)
+//     {
+//         console.log("jim",jim);
+//     }
+//     else 
+//     {
+//     console.log("dela",dela);
+//     }
