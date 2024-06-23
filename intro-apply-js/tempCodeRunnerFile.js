@@ -1,1 +1,1 @@
-const numbers=[45,34,21,56,43];
+console.log(...num);
