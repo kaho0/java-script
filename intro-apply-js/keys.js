@@ -15,5 +15,10 @@ console.log(values);
 const pair=Object.entries(glass);
 console.log(pair);
 
+// Object.freeze(glass);
+glass.source='bangladesh';
+glass.price=40000;
+console.log(glass);
+
 // const {isCleaned,...shortGlass}=glass;
 // console.log(shortGlass);
