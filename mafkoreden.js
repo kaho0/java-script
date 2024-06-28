@@ -13,3 +13,7 @@ console.log(output);
 
 const out=numbers.map(n=>n*2);
 console.log(out);
+
+const n=[1,2,3,4,5];
+const res=numbers.forEach(n=>console.log(n));
+console.log(res);
