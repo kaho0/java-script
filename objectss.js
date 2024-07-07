@@ -1,5 +1,9 @@
 class product{
     country='bangladesh';
+    constructor(name){
+        
+
+    }
     speak(talk){
         console.log(`talking about ${talk}`)
     }
